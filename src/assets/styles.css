@@ -1,0 +1,12 @@
+.delete {
+  color: rgb(232, 58, 58);
+}
+.delete:hover {
+  color: orange;
+}
+.edit {
+  color: rgb(69, 122, 221);
+}
+.edit:hover {
+  color: orange;
+}
